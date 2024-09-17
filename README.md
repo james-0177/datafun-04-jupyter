@@ -21,8 +21,13 @@ py -m pip freeze > requirements.txt
 
 ```shell
 git add .
-git commit -m "add .gitignore, commands to README.md"
+git commit -m "create Project 4 repo, .gitignore, .venv, and README"
 git push -u origin main
+```
+## Install dependencies
+
+```shell
+py -m pip install -r requirements.txt
 ```
 
 ## Specification
