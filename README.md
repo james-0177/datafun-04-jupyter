@@ -30,6 +30,13 @@ git push -u origin main
 py -m pip install -r requirements.txt
 ```
 
+## How to Install and Run the Project
+
+```shell
+py -m pip install numpy
+py -m pip install scipy
+```
+
 ## Specification
 
 This project was built to the following specification:
