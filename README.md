@@ -29,4 +29,4 @@ git push -u origin main
 
 This project was built to the following specification:
 
-- [datafun-03-spec](https://github.com/denisecase/datafun-04-spec)
+- [datafun-04-spec](https://github.com/denisecase/datafun-04-spec)
